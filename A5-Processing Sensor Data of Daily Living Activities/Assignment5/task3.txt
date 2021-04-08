@@ -1,0 +1,9 @@
+Activity : Leaving	 apears 14 times
+Activity : Breakfast	 apears 14 times
+Activity : Sleeping apears 14 times
+Activity : Snack	 apears 11 times
+Activity : Grooming	 apears 51 times
+Activity : Showering	 apears 14 times
+Activity : Spare_Time/TV apears 77 times
+Activity : Toileting	 apears 44 times
+Activity : Lunch apears 9 times

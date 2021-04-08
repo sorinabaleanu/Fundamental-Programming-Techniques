@@ -1,0 +1,9 @@
+Activity : Leaving	 takes PT27H44M44S 
+Activity : Breakfast	 takes PT2H58M8S 
+Activity : Sleeping takes PT131H3M31S 
+Activity : Snack	 takes PT6M1S 
+Activity : Grooming	 takes PT2H40M42S 
+Activity : Showering	 takes PT1H34M9S 
+Activity : Spare_Time/TV takes PT142H28M55S 
+Activity : Toileting	 takes PT2H20M34S 
+Activity : Lunch takes PT5H13M31S 

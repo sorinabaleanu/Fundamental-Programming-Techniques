@@ -1,0 +1,3 @@
+Activity : Snack	 lasts less than 5 minutes 90% of the time 
+Activity : Grooming	 lasts less than 5 minutes 90% of the time 
+Activity : Toileting	 lasts less than 5 minutes 90% of the time 
